@@ -1,9 +1,9 @@
 [project]
 name = "english-marshallese-translation"
 version = "0.1.0"
-description = "Add your description here"
-readme = "README.md"
-requires-python = ">=3.14"
+description = "English to Marshallese translator using GPT-5"
+requires-python = ">=3.10"
 dependencies = [
-    "fastapi>=0.121.1",
+    "python-dotenv>=1.0.0",
+    "openai>=1.0.0",
 ]
