@@ -1,0 +1,271 @@
+{
+  "metadata": {
+    "title": "Marshallese Medical Vocabulary",
+    "author": "Willa Ysawa Aaron, R.N.",
+    "description": "Medical terminology translations from English to Marshallese",
+    "pronunciation_notes": [
+      "Single vowels may be pronounced as in Hawaiian, Tongan, Japanese, Vietnamese, or Samoan",
+      "Diacritical marks represent different sounds and phonemes",
+      "Two l's, two m's, and 3 n's in Marshallese",
+      "The 'n' with a mark above has an 'ng' sound as in morning",
+      "d is a light trill; r is a heavier trill or rolled r",
+      "Marshallese can interpret writing without diacritical markings; if in doubt about pronunciation, show the patient the word"
+    ]
+  },
+  "general_vocabulary": {
+    "greetings": [
+      { "english": "Hello", "marshallese": "Iakwe" },
+      { "english": "Good morning", "marshallese": "Iakwe" },
+      { "english": "Good evening", "marshallese": "Iakwe" },
+      { "english": "Good afternoon", "marshallese": "Iakwe" },
+      { "english": "Goodbye", "marshallese": "Bar iakwe" },
+      { "english": "Goodnight", "marshallese": "Goodnight" }
+    ],
+    "common_phrases": [
+      { "english": "I don't speak that much", "marshallese": "Ij jab lukun jela kajin eo" },
+      { "english": "I don't understand", "marshallese": "Ij jab melele" },
+      { "english": "I understand", "marshallese": "I melele" },
+      { "english": "Yes", "marshallese": "Aet" },
+      { "english": "No", "marshallese": "Jaab" },
+      { "english": "My name is", "marshallese": "Eta in" },
+      { "english": "Doctor", "marshallese": "Takto" },
+      { "english": "Nurse", "marshallese": "Nurse" },
+      { "english": "Thank you", "marshallese": "Kommol" },
+      { "english": "You're welcome", "marshallese": "Kin jouj" },
+      { "english": "Please", "marshallese": "Jouj" },
+      { "english": "Excuse me", "marshallese": "Jolok bwod" },
+      { "english": "Good", "marshallese": "Emman" },
+      { "english": "Bad", "marshallese": "Enana" }
+    ]
+  },
+  "body_parts": [
+    { "english": "Head", "base": "Bar", "my": "Bora", "your": "Boram", "their": "Boran" },
+    { "english": "Ears", "base": "Lojilni", "my": "Lojilnu", "your": "Lojilnum", "their": "Lojilnun" },
+    { "english": "Throat", "base": "Buro", "my": "Buruo", "your": "Buruom", "their": "Buruon" },
+    { "english": "Eyes", "base": "Mej", "my": "Meja", "your": "Mejam", "their": "Mejen" },
+    { "english": "Nose", "base": "Boti", "my": "Botu", "your": "Botum", "their": "Botin" },
+    { "english": "Teeth", "base": "Nii", "my": "Niiu", "your": "Niium", "their": "Niin" },
+    { "english": "Shoulder", "base": "Aire", "my": "Aera", "your": "Aeram", "their": "Aeran" },
+    { "english": "Neck", "base": "Kenwa", "my": "Kenwao", "your": "Kenwaam", "their": "Kenwaan" },
+    { "english": "Arm", "base": "Be", "my": "Beiu", "your": "Beium", "their": "Beiin" },
+    { "english": "Hand", "base": "Be", "my": "Beiu", "your": "Beium", "their": "Beiin", "note": "Same as arm" },
+    { "english": "Elbow", "my": "Jibun beiu", "your": "Jibun beium", "their": "Jibun beiin" },
+    { "english": "Finger", "my": "Adri in beiu", "your": "Adri in beium", "their": "Adri in beiin" },
+    { "english": "Nails", "my": "Akki in beiu", "your": "Akki in beium", "their": "Akki in beiin" },
+    { "english": "Chest", "base": "Ob", "my": "Ubo", "your": "Ubum", "their": "Ubon" },
+    { "english": "Back", "base": "Likin", "my": "Liku", "your": "Likum", "their": "Likun" },
+    { "english": "Breast", "base": "Itti", "my": "Ittu", "your": "Ittum", "their": "Ittin" },
+    { "english": "Heart", "base": "Menono", "my": "Menono e ao", "your": "Menono ne am", "their": "Menono en an" },
+    { "english": "Abdomen", "base": "Loje", "my": "Lojeo", "your": "Lojeom", "their": "Lojeen" },
+    { "english": "Anus", "base": "Lok", "my": "Loka", "your": "Lokam", "their": "Lokan" },
+    { "english": "Leg", "base": "Ne", "my": "Neio", "your": "Neiom", "their": "Neen" },
+    { "english": "Foot", "note": "See leg, above" },
+    { "english": "Ankle", "my": "Kolelel in neio", "your": "Kolele in neiom", "their": "Kolelel in neen" },
+    { "english": "Toe", "my": "Adri in neio", "your": "Adri in neiom", "their": "Adri In neen" },
+    { "english": "Knee", "my": "Bukien neio", "your": "Bukien neiom", "their": "Bukien neen" },
+    { "english": "Joint", "base": "Mokaj", "my": "Mokaj ke ao", "your": "Mokaj kane am", "their": "Mokaj kan an" },
+    { "english": "Bone", "base": "Dri", "my": "Dri ke ao", "your": "Dri kan am", "their": "Dri kan an" },
+    { "english": "Muscle", "marshallese": "Muscle", "note": "No Marshallese word for it" },
+    { "english": "Skin", "base": "Kiil", "my": "Kilu", "your": "Kilum", "their": "Kilin" }
+  ],
+  "sexual_organs": {
+    "cultural_note": "It is culturally inappropriate to say the names of sexual organs to another adult other than your partner. It is often understood when 'down there' is used instead.",
+    "question": "Is there any problem in your _____?",
+    "question_marshallese": "Ewor ke joran ilo ijone ibbam?"
+  },
+  "medical_conditions": [
+    { 
+      "english": "Allergy", 
+      "marshallese": "Karok",
+      "questions": [
+        { "english": "Are you allergic to any meds?", "marshallese": "Ewor ke uno en kwoj karoke?" },
+        { "english": "Are you allergic to anything?", "marshallese": "Ewor ke men en kwoj karoke?" }
+      ]
+    },
+    { "english": "Anemia", "marshallese": "Jabe botoktok" },
+    { "english": "Arthritis", "marshallese": "Kurro" },
+    { "english": "Asthma", "marshallese": "Worlok" },
+    { "english": "Bleeding problems", "marshallese": "Toor" },
+    { "english": "Cancer", "marshallese": "Cancer", "note": "No Marshallese word" },
+    { "english": "Diabetes mellitus", "marshallese": "Naninmij in tonal" },
+    { "english": "Epilepsy", "marshallese": "Dribubbub" },
+    { 
+      "english": "Glaucoma", 
+      "marshallese": "Ewor joran ilo mejam", 
+      "note": "No Marshallese word for it. Translated as: There is problem in your eyes"
+    },
+    { "english": "Heart trouble", "marshallese": "Joran menono" },
+    { "english": "Hepatitis", "marshallese": "Joran aj" },
+    { "english": "Liver trouble", "marshallese": "Joran aj" },
+    { 
+      "english": "High blood pressure", 
+      "marshallese": "High blood", 
+      "note": "Without the word pressure; no Marshallese word"
+    },
+    { "english": "Insomnia", "marshallese": "Jaje kiki" },
+    { "english": "Kidney trouble", "marshallese": "Joran kidney" },
+    { "english": "Kidney stone", "marshallese": "Dreka ilo kidney" },
+    { "english": "Mental problem", "marshallese": "Bwebwe" },
+    { "english": "Nervous breakdown", "marshallese": "Bwebwe" },
+    { "english": "Pneumonia", "marshallese": "Pneumonia", "note": "No Marshallese word" },
+    { "english": "Stroke", "marshallese": "Mej drejatan" },
+    { "english": "Swelling", "marshallese": "Ebboj" },
+    { "english": "Tuberculosis", "marshallese": "TB" },
+    { "english": "Tumor", "marshallese": "Tumor", "note": "No Marshallese word" },
+    { "english": "Ulcer", "marshallese": "Ulcer", "note": "No Marshallese word" },
+    { "english": "Worms", "marshallese": "Maj" },
+    { "english": "Parasites", "marshallese": "Maj" },
+    { "english": "Venereal disease", "marshallese": "Naninmij in jiron im likao" },
+    { "english": "Gonorrhea", "marshallese": "Naninmij in jiron im likao" },
+    { "english": "Syphilis", "marshallese": "Naninmij in jiron im likao" }
+  ],
+  "pain_and_symptoms": {
+    "descriptors": [
+      { "english": "Pain", "marshallese": "Metak" },
+      { "english": "Sharp", "marshallese": "", "note": "No Marshallese word to describe sharp pain" },
+      { "english": "Dull", "marshallese": "", "note": "No Marshallese word to describe dull pain" },
+      { "english": "Burning", "marshallese": "Bwil" }
+    ],
+    "questions": [
+      { "english": "Where?", "marshallese": "Ia?" },
+      { "english": "How much?", "marshallese": "Ewi jonan?" },
+      { "english": "A lot", "marshallese": "Elap" },
+      { "english": "A little", "marshallese": "Jidrik" },
+      { "english": "Often", "marshallese": "Aolep ien" },
+      { "english": "Seldom", "marshallese": "Ejeja, or ejjab aolep ien" },
+      { "english": "Do you take medicine?", "marshallese": "Kwoj ke drak uno?" },
+      { "english": "What medicines?", "marshallese": "Uno rot?" },
+      { "english": "Show me", "marshallese": "Kwalok mok nan na" },
+      { "english": "Drink much?", "marshallese": "Elap ke am draak?" },
+      { "english": "Alcohol", "marshallese": "Dren in karok" },
+      { "english": "Smoke much?", "marshallese": "Elap ke am kobatat?" },
+      { "english": "Cigarettes", "marshallese": "Jikka" }
+    ]
+  },
+  "review_of_systems": {
+    "question_format": {
+      "english": "Do you have problems with _____?",
+      "marshallese": "Ewor ke am problem ilo _____?"
+    },
+    "general": [
+      { "english": "Weak", "marshallese": "Mojno" },
+      { "english": "Tired", "marshallese": "Mok" },
+      { "english": "Weight loss", "marshallese": "Aidriklok" },
+      { "english": "Appetite bad", "marshallese": "Makoko in mona" },
+      { "english": "Fever", "marshallese": "Biiba" },
+      { "english": "Heavy sweating", "marshallese": "Elap menokaru" }
+    ],
+    "skin": [
+      { "english": "Itching", "marshallese": "Bonejnej" },
+      { "english": "Rash", "marshallese": "Nennab" },
+      { "english": "Wounds", "marshallese": "Kinej" },
+      { "english": "Sores", "marshallese": "Kinej" },
+      { "english": "Infection", "marshallese": "Kinej" }
+    ],
+    "head": [
+      { "english": "Dizziness", "marshallese": "Adroboulul" },
+      { "english": "Headache", "marshallese": "Metak bar" },
+      { "english": "Head injury", "marshallese": "Joran bar" }
+    ],
+    "eyes": [
+      { "english": "Poor vision", "marshallese": "Bilo" },
+      { "english": "Blurry vision", "marshallese": "Tab an lale" },
+      { "english": "Glasses", "marshallese": "Kilaj" },
+      { "english": "Blindness", "marshallese": "Bilo" }
+    ],
+    "ears": [
+      { "english": "Deafness", "marshallese": "Jaronron" },
+      { "english": "Ringing in ears", "marshallese": "Jan lojilni" }
+    ],
+    "nose": [
+      { "english": "Sneezing", "marshallese": "Maje" },
+      { "english": "Nose bleed", "marshallese": "Botoktok boti" }
+    ],
+    "throat": [
+      { "english": "Hoarseness", "marshallese": "Nana ainikien" },
+      { "english": "Sore throat", "marshallese": "Metak buruo" }
+    ],
+    "respiratory": [
+      { "english": "Cough", "marshallese": "Bokbok" },
+      { "english": "Cough up blood", "marshallese": "Emmoj botoktok" },
+      { "english": "Trouble breathing", "marshallese": "Ikkijelok" }
+    ],
+    "circulation": [
+      { "english": "Chest pain", "marshallese": "Metak ob" },
+      { "english": "Heart trouble", "marshallese": "Joran menono" },
+      { "english": "Cold feet", "marshallese": "Molo neem" },
+      { "english": "Swollen feet", "marshallese": "Ebboj neem" }
+    ],
+    "gastrointestinal": [
+      { "english": "Vomiting", "marshallese": "Emmoj" },
+      { "english": "Nausea", "marshallese": "Molanlon" },
+      { "english": "Vomiting blood", "marshallese": "Emmoj botoktok" },
+      { "english": "Black stool", "marshallese": "Kibwe kilmej" },
+      { "english": "Light stool", "marshallese": "", "note": "No Marshallese word" },
+      { "english": "Bloody stools", "marshallese": "Botoktok kibweem" },
+      { "english": "Constipation", "marshallese": "Bin lojem" },
+      { "english": "Diarrhea", "marshallese": "Biroro lojem" }
+    ],
+    "genitourinary": [
+      { "english": "Painful urination", "marshallese": "Metak am raut" },
+      { "english": "Urine problems", "marshallese": "Joran jikin raut" },
+      { "english": "Frequent urination", "marshallese": "Ekutkut am raut" }
+    ],
+    "male": [
+      { "english": "Pain in scrotum", "marshallese": "Metak bek ko" },
+      { "english": "Swelling in scrotum", "marshallese": "Ebboj bek ko" }
+    ],
+    "female": [
+      { "english": "Menstrual pain", "marshallese": "Metak am mejen allon" },
+      { "english": "Light bleeding", "marshallese": "Jidrik wot toor" },
+      { "english": "How many children", "marshallese": "Jete nejum ajiri" },
+      { "english": "Vaginal discharge", "marshallese": "Dren" }
+    ],
+    "endocrine": [
+      { "english": "Increased thirst", "marshallese": "Lap emaroro" },
+      { "english": "Increased appetite", "marshallese": "Lap mona" },
+      { "english": "Sweating", "marshallese": "Menokaru" },
+      { "english": "Feel hot", "marshallese": "Bwil" },
+      { "english": "Feel cold", "marshallese": "Bio" }
+    ],
+    "hematopoietic": [
+      { "english": "Abnormal bleeding", "marshallese": "Nana an torlok" },
+      { "english": "Blood problems", "marshallese": "Nana botoktok" },
+      { "english": "Bruising", "marshallese": "Mao" }
+    ],
+    "musculoskeletal": [
+      { "english": "Joint problems", "marshallese": "Nana mokaj" },
+      { "english": "Stiffness", "marshallese": "Bin" },
+      { "english": "Muscle weakness", "marshallese": "Mojno" },
+      { "english": "Swelling", "marshallese": "Ebboj" }
+    ],
+    "nervous_system": [
+      { "english": "Tremor", "marshallese": "Uridrid" },
+      { "english": "Shaking", "marshallese": "Uridrid" },
+      { "english": "Bad balance", "marshallese": "Nana jutak/etetal" },
+      { "english": "Convulsions", "marshallese": "Dribubub" },
+      { "english": "Trouble walking", "marshallese": "Nana etetal" }
+    ]
+  },
+  "physical_examination": [
+    { "english": "Relax", "marshallese": "Kabidodo" },
+    { "english": "Good", "marshallese": "Emman" },
+    { "english": "Take a deep breath", "marshallese": "Buul bok kutuwom" },
+    { "english": "Hold your breath", "marshallese": "Jab menono" },
+    { "english": "Don't move", "marshallese": "Jab emakitkit" },
+    { "english": "Can't move", "marshallese": "Jaje emakitkit" },
+    { "english": "Can move", "marshallese": "Maron emakitkit" },
+    { "english": "Open your mouth", "marshallese": "Kebelok lonium" },
+    { "english": "Do this", "marshallese": "Kommane men eo" },
+    { "english": "Push", "marshallese": "Uuni" },
+    { "english": "Sit up", "marshallese": "Jijet" },
+    { "english": "Squeeze", "marshallese": "Keene" },
+    { "english": "Lie down", "marshallese": "Babu" },
+    { "english": "Please", "marshallese": "Jouj" },
+    { "english": "Do you feel this?", "marshallese": "Kwoj ke enjake?" },
+    { "english": "Dull", "marshallese": "Ekkub" },
+    { "english": "Cold", "marshallese": "Molo" },
+    { "english": "Sharp", "marshallese": "Ekkan" },
+    { "english": "Hot", "marshallese": "Bwil" }
+  ]
+}
