@@ -1,6 +1,11 @@
-def main():
-    print("Hello from english-marshallese-translation!")
+from translator import english_to_marshallese, marshallese_to_english
 
 
 if __name__ == "__main__":
-    main()
+    # Test English to Marshallese
+    print("English to Marshallese:")
+    english_text = "Hello, do you have a headache or pain in your body?"
+    marshallese = english_to_marshallese(english_text)
+    print(f"Input: {english_text}")
+    print(f"Output: {marshallese}\n")
+    
