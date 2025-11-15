@@ -1,11 +1,15 @@
 [project]
-name = "english-marshallese-translation"
+name = "demo-translation"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
-    "langchain-openai>=1.0.2",
-    "openai>=1.0.0",
+    "dotenv>=0.9.9",
+    "fastapi[standard]>=0.95.0",
+    "httpx>=0.24.0",
+    "openai>=2.7.2",
     "python-dotenv>=1.0.0",
+    "rapidfuzz>=2.13.7",
+    "uvicorn[standard]>=0.22.0",
 ]
